@@ -1,2 +1,2 @@
 Welcome to github
-Try to merge with conflict
+let's have a conflict
